@@ -14,4 +14,4 @@ function findVowels(str) {
     console.log(`Number of vowels is ${counter} where vowels are ${vowels.join(", ")}`);
 }
 
-findVowels("I hate JS"); 
+findVowels(" I hate JS"); 
